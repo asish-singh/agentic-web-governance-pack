@@ -75,4 +75,4 @@ Unless otherwise noted, the content is released under CC BY 4.0 (see `LICENSE`).
 ## Contact
 
 GitHub: https://github.com/asish-singh  
-Add: LinkedIn / email
+Add: [LinkedIn](https://www.linkedin.com/in/asishsingh/)
